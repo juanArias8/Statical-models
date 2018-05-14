@@ -75,9 +75,9 @@ depredadores?
 Modelos
 
 * Modelo de depredadores
-* * dXdT = -alfa \* x + beta \* x \* y
+* * dXdT = -alfa*x + beta*x*y
 * Modelo de presas
-* * dYdT = delta \* y - gamma \*  x \* y
+* * dYdT = delta*y - gamma*x*y
 
 Variables
 * alfa ==> Tasa de muerte de depredadores
@@ -118,9 +118,9 @@ de depredadores llegan más individuos por migración?
 Modelos
 
 * Modelo de depredadores con individuos por migración
-* * dXdT = -alfa \* x + beta \* x \* y + epsilon \* x 
+* * dXdT = -alfa*x + beta*x*y + epsilon*x 
 * Modelo de presas
-* * dYdT = delta \* y - gamma \*  x \* y
+* * dYdT = delta*y - gamma*x*y
 
 Variables
 * alfa ==> Tasa de muerte de depredadores
@@ -165,9 +165,9 @@ de presas muere también por causas naturales?
 Modelos
 
 * Modelo de depredadores
-* * dXdT = -alfa \* x + beta \* x \* y
+* * dXdT = -alfa*x + beta*x*y
 * Modelo de presas con muertes naturales
-* * dYdT = delta \* y - gamma \*  x \* y - epsilon \* y
+* * dYdT = delta*y - gamma*x*y - epsilon*y
 
 Variables
 * alfa ==> Tasa de muerte de depredadores
