@@ -273,8 +273,6 @@ plot_didt_vs_tiempo = list_plot(didt_vs_tiempo, plotjoined=True, color="red")
 plot_drdt_vs_tiempo = list_plot(drdt_vs_tiempo, plotjoined=True, color="blue")
 
 show(plot_dsdt_vs_tiempo + plot_didt_vs_tiempo + plot_drdt_vs_tiempo)
-︡84a6d40a-2f87-4cad-bc2e-b41c8323be50︡{"file":{"filename":"/home/user/.sage/temp/project-7265bd2c-62e9-448c-83aa-7e13a298e1cf/133/tmp_hB5hQT.svg","show":true,"text":null,"uuid":"2c62e4dc-ebf4-4bcf-a70e-e7413a5b76ff"},"once":false}︡{"done":true}︡
-︠93925983-4624-461c-9fce-b1d4946c9d4b︠
 
 
 
