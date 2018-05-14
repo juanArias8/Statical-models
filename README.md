@@ -15,3 +15,9 @@ The present repository contains scripts of epidemiological models, predator-prey
 ***
 #### Epidemiological model example 3
 ![Image 1](images/model3.png "epidemiological model")
+***
+#### Predator-prey model example 1
+![Image 1](images/model4.png "predator-prey model")
+***
+#### Predator-prey model example 2
+![Image 1](images/model5.png "predator-prey model")
